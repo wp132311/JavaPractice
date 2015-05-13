@@ -16,7 +16,7 @@ public class Operator {
 				else{
 					System.out.printf("평행사변형이 사다리꼴보다 %.1f 더 큽니다.\n",s2-s1);
 				}
-			
+		
 			
 		}
 

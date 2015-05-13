@@ -34,6 +34,7 @@ public class Question {
 			System.out.println("정답입니다!");
 		} else {
 			System.out.println("틀렸습니다!");
+			///
 		}
 	}
 
